@@ -23,4 +23,5 @@ After access is removed, the stored token is deleted.
 - Google Privacy Policy: https://policies.google.com/privacy
 
 ## Contact
-ohyagi@gmail.com
+Please contact us via GitHub Issues:
+https://github.com/ai-fx-jidoubaibai/fx-short-uploader/issues
